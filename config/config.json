@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "mopa",
+    "password": "mopa251946",
+    "database": "graphql",
+    "host": "localhost",
+    "dialect": "postgres"
+  },
+  "test": {
+    "username": "usuario",
+    "password": "contraseña",
+    "database": "test-db",
+    "host": "localhost",
+    "dialect": "postgres"
+  },
+  "production": {
+    "username": "usuario",
+    "password": "contraseña",
+    "database": "test-db",
+    "host": "localhost",
+    "dialect": "postgres"
+  }
+}
